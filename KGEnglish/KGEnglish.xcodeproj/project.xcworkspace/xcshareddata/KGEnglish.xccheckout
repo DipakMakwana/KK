@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A71726B-1CFC-4321-BC27-A32A3DF0E5F8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KGEnglish</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>f04f98a3-e485-7448-96f8-ef0f65b765a2++8789</key>
+		<string>http://192.168.0.8:9090/svn/MobileApps/DipakMakwana</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhoneProjects/KGEnglish/KGEnglish.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>f04f98a3-e485-7448-96f8-ef0f65b765a2++8789</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>f04f98a3-e485-7448-96f8-ef0f65b765a2++8789</key>
+		<string>http://192.168.0.8:9090/svn/MobileApps</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.0.8:9090/svn/MobileApps/DipakMakwana/iPhoneProjects/KGEnglish/KGEnglish.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>f04f98a3-e485-7448-96f8-ef0f65b765a2++8789</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f04f98a3-e485-7448-96f8-ef0f65b765a2++8789</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DipakMakwana</string>
+		</dict>
+	</array>
+</dict>
+</plist>
